@@ -46,14 +46,51 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="MDIChildHK.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="MDIChildHK.Designer.cs">
+      <DependentUpon>MDIChildHK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIChildNK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIChildNK.Designer.cs">
+      <DependentUpon>MDIChildNK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIChildTraCuu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIChildTraCuu.Designer.cs">
+      <DependentUpon>MDIChildTraCuu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIChildTT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIChildTT.Designer.cs">
+      <DependentUpon>MDIChildTT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyNhanKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include=".Designer.cs">
+      <DependentUpon>QuanLyNhanKhau.cs</DependentUpon>
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MDIChildHK.resx">
+      <DependentUpon>MDIChildHK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIChildNK.resx">
+      <DependentUpon>MDIChildNK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIChildTraCuu.resx">
+      <DependentUpon>MDIChildTraCuu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIChildTT.resx">
+      <DependentUpon>MDIChildTT.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -63,6 +100,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="QuanLyNhanKhau.resx">
+      <DependentUpon>QuanLyNhanKhau.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

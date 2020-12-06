@@ -1,0 +1,14 @@
+E:\quanlynhankhau\-demographic-management-application\-demographic-management-application\quanlynhankhau\quanlynhankhau\bin\Debug\quanlynhankhau.exe.config
+E:\quanlynhankhau\-demographic-management-application\-demographic-management-application\quanlynhankhau\quanlynhankhau\bin\Debug\quanlynhankhau.exe
+E:\quanlynhankhau\-demographic-management-application\-demographic-management-application\quanlynhankhau\quanlynhankhau\bin\Debug\quanlynhankhau.pdb
+E:\quanlynhankhau\-demographic-management-application\-demographic-management-application\quanlynhankhau\quanlynhankhau\obj\Debug\quanlynhankhau.csprojAssemblyReference.cache
+E:\quanlynhankhau\-demographic-management-application\-demographic-management-application\quanlynhankhau\quanlynhankhau\obj\Debug\quanlynhankhau.Properties.Resources.resources
+E:\quanlynhankhau\-demographic-management-application\-demographic-management-application\quanlynhankhau\quanlynhankhau\obj\Debug\quanlynhankhau.Main.resources
+E:\quanlynhankhau\-demographic-management-application\-demographic-management-application\quanlynhankhau\quanlynhankhau\obj\Debug\quanlynhankhau.csproj.GenerateResource.cache
+E:\quanlynhankhau\-demographic-management-application\-demographic-management-application\quanlynhankhau\quanlynhankhau\obj\Debug\quanlynhankhau.csproj.CoreCompileInputs.cache
+E:\quanlynhankhau\-demographic-management-application\-demographic-management-application\quanlynhankhau\quanlynhankhau\obj\Debug\quanlynhankhau.exe
+E:\quanlynhankhau\-demographic-management-application\-demographic-management-application\quanlynhankhau\quanlynhankhau\obj\Debug\quanlynhankhau.pdb
+E:\quanlynhankhau\-demographic-management-application\-demographic-management-application\quanlynhankhau\quanlynhankhau\obj\Debug\quanlynhankhau.frmHK.resources
+E:\quanlynhankhau\-demographic-management-application\-demographic-management-application\quanlynhankhau\quanlynhankhau\obj\Debug\quanlynhankhau.frmNK.resources
+E:\quanlynhankhau\-demographic-management-application\-demographic-management-application\quanlynhankhau\quanlynhankhau\obj\Debug\quanlynhankhau.frmTT.resources
+E:\quanlynhankhau\-demographic-management-application\-demographic-management-application\quanlynhankhau\quanlynhankhau\obj\Debug\quanlynhankhau.frmTraCuu.resources
